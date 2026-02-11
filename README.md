@@ -1,1 +1,28 @@
 # student-management-system
+# Student Management System
+
+A desktop application built using Python, Tkinter, and MySQL to manage student records easily.
+
+## Features
+- Add Student
+- Update Student
+- Delete Student
+- View All Records
+- MySQL Database Integration
+
+## Technologies Used
+- Python
+- Tkinter
+- MySQL
+- PyMySQL
+
+## How to Run
+1. Install Python
+2. Install required libraries
+   pip install pymysql
+3. Setup MySQL database
+4. Run:
+   python student_management_system.py
+
+## Author
+Shefali Verma
